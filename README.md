@@ -1,5 +1,5 @@
 # 💫 About Me:
-I enjoy building websites and working on web projects that people actually use. I’ve worked on both personal ideas and real websites for small businesses, learning by doing and improving over time, sometimes using AI as a supportive tool.<br><br>Outside of web development, I have a strong interest in aviation and plane spotting, which often inspires the kind of projects and ideas I work on. I like combining creativity, technology, and real-world interests into things that feel practical and meaningful.
+I enjoy building websites and working on web projects that people actually use. I’ve worked on both personal ideas and real websites for small businesses, learning by doing and improving over time.<br><br>Outside of web development, I have a strong interest in aviation and plane spotting, which often inspires the kind of projects and ideas I work on. I like combining creativity, technology, and real-world interests into things that feel practical and meaningful.
 Some of the technologies listed below are tools I actively learn and use in real projects, occasionally supported by AI when appropriate.
 <br><br>
 
